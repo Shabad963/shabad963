@@ -1,3 +1,16 @@
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDYxNzM0NTVlMmVlODBlZjViNTRjY2U4YmQyZWU3M2E0MTQ2ZmJhYSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<div id="hesders">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/muhammed-shabad">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/shabumuhammed?t=5mXZe60oqoSfCEmC-5yC_A&s=09">
+      <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.instagram.com/shabu_muhammed">
+      <img src="https://img.shields.io/badge/Instagram-indigo?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
 <h1 align="center">Hi 👋, I'm Shabad</h1>
 <h3 align="center">A self-taught passionate flutter developer from India</h3>
 
