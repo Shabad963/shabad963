@@ -14,13 +14,15 @@
 <h1 align="center">Hi 👋, I'm Shabad</h1>
 <h3 align="center">A self-taught passionate flutter developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabad963" alt="shabad963" /></a> </p>
+
 
 - 🔭 I’m currently working on **Flutter projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shabad963?tab=repositories](https://github.com/Shabad963?tab=repositories)
 
 - 📫 How to reach me **shabad963@gmail.com**
+    
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shabad963" alt="shabad963" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
